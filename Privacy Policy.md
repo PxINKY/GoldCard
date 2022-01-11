@@ -26,16 +26,18 @@ a. Gold Card has permission to collect the following information:
 
 * Guild user count
 
-* User commands / messages containing the set Gold Card prefix (Default prefix: '>')
+* User commands / messages
+
 
 ### 2. Why this information?
 a. Guild name / ID
 
 * The use of collecting Guild names and IDs allow me to log the total number of servers that Gold Card is in.
 
-* This will also be used in the future for patreon / supporter exclusive commands / abilitys such as changing the prefix.
+* This will also be used in the future for patreon / supporter exclusive commands such as changing the prefix.
 
 * Also if the TOS of Gold Card are broken this allows me to blacklist servers
+
 
 b. Guild owners name and ID
 
@@ -43,6 +45,14 @@ b. Guild owners name and ID
 
 * Tracking the ID (Non-changing identity) allows for the user to change there discord name without losing premium fetures / access.
 
-c. 
+
+c. Guild user count
+
+* Allows for future implementations such as guild user count
+
+
+d. User commands / messages
+
+* Without the ability to read the message Gold Card wouldn't be able to tell when receiving a command.
 
 
