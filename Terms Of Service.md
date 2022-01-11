@@ -1,8 +1,8 @@
 Terms Of Service (TOS) for Gold Card
 
 Contact information:
-Discord:   PxINKY#0127
-Email:     pxinky.dev@gmail.com
+PxINKY#0127
+pxinky.dev@gmail.com
 
 1. Terms of use
 
