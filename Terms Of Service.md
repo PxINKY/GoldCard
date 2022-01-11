@@ -15,7 +15,7 @@ c. Gold Card is a private project created by me (PxINKY). Any and all ownership 
 
 d. Any use of hatespeach, violance, or any illegal activitys including the use of my bot will not be tolerated and will result in removal and blacklisting from any future use of Gold Card.
 
-### 2. Rights of Goldcard
+### 2. Rights of Gold Card
 
 a. By adding Gold card to your server you assign the rights of administrator to the bot. This allows for modification and future processing.
 
