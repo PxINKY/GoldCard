@@ -1,11 +1,11 @@
-Terms Of Service (TOS) for Gold Card
+# Terms Of Service (TOS) for Gold Card
 
-Contact information
+## Contact information
 >PxINKY#0127 
 
 >pxinky.dev@gmail.com
 
-1. Terms of use
+### 1. Terms of use
 
 a. Adding Gold Card to your server means you agree to Gold card [Privacy Policy](https://github.com/PxINKY/GoldCard/blob/main/Privacy%20Policy.md) / [TOS](https://github.com/PxINKY/GoldCard/blob/main/Terms%20Of%20Service.md), [Discord TOS](https://discord.com/terms), [Discord Community Guidelines](https://discord.com/guidelines), and [Riot Games TOS](https://www.riotgames.com/en/terms-of-service).
 
@@ -15,7 +15,7 @@ c. Gold Card is a private project created by me (PxINKY). Any and all ownership 
 
 d. Any use of hatespeach, violance, or any illegal activitys including the use of my bot will not be tolerated and will result in removal and blacklisting from any future use of Gold Card.
 
-2. Rights of Goldcard
+### 2. Rights of Goldcard
 
 a. By adding Gold card to your server you assign the rights of administrator to the bot. This allows for modification and future processing.
 
