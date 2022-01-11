@@ -6,7 +6,7 @@ Email:     pxinky.dev@gmail.com
 
 1. Terms of use
 
-a. Adding Gold card to your server means you agree to Gold card Privacy Policy / [TOS](https://github.com/PxINKY/GoldCard/edit/main/Terms%20Of%20Service), [Discord TOS](https://discord.com/terms), [Discord Community Guidelines](https://discord.com/guidelines), and [Riot Games TOS](https://www.riotgames.com/en/terms-of-service).
+a. Adding Gold card to your server means you agree to Gold card [Privacy Policy](https://github.com/PxINKY/GoldCard/blob/main/Privacy%20Policy.md) / [TOS](https://github.com/PxINKY/GoldCard/edit/main/Terms%20Of%20Service.md), [Discord TOS](https://discord.com/terms), [Discord Community Guidelines](https://discord.com/guidelines), and [Riot Games TOS](https://www.riotgames.com/en/terms-of-service).
 
 b. The use of goldcard in your server is allowed as long as no terms are broken in the process, by adding gold card to your server you accept all the following TOS.
 
