@@ -28,12 +28,17 @@ a. Gold Card has permission to collect the following information:
 
 ### 2. Why this information?
 a. Guild name / ID
+
 * The use of collecting Guild names and IDs allow me to log the total number of servers that Gold Card is in.
+
 * This will also be used in the future for patreon / supporter exclusive commands / abilitys such as changing the prefix.
+
 * Also if the TOS of Gold Card are broken this allows me to blacklist servers
 
 b. Guild owners name and ID
+
 * Relating to premium fetures, tracking the owners ID allows for efficient sorting of supporters and easy access.
+
 * Tracking the ID (Non-changing identity) allows for the user to change there discord name without losing premium fetures / access.
 
 c. 
