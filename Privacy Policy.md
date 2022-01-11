@@ -2,6 +2,8 @@
 ## Information and relevent links
 > [Official Discord Server](https://discord.gg/jFY3pPtm2u)
 
+> [Patreon](https://www.patreon.com/PxINKY)
+
 > [GitHub](https://github.com/PxINKY)
 
 > [Gold Card Repository](https://github.com/PxINKY/GoldCard)
