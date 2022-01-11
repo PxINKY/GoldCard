@@ -1,6 +1,6 @@
 Terms Of Service (TOS) for Gold Card
 
-Contact information:
+Contact information
 >PxINKY#0127
 >pxinky.dev@gmail.com
 
