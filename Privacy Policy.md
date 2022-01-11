@@ -18,10 +18,10 @@ Gold Card was created by me (PxINKY) with the help of a couple of close friends,
 ### 1. Using Gold Card
 a. Gold Card has permission to collect the following information:
 
-*Guild name and server ID
+* Guild name and server ID
 
-*Guild owners Name and ID
+* Guild owners Name and ID
 
-*Guild member count
+* Guild member count
 
-*User commands / messages containing the set Gold Card prefix (Default prefix: '>')
+* User commands / messages containing the set Gold Card prefix (Default prefix: '>')
